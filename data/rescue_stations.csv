@@ -1,0 +1,6 @@
+﻿station_id,node_id,available_supply,service_time_min
+C1,N023,36,13
+C2,N018,102,13
+C3,N045,35,14
+C4,N083,35,11
+C5,N089,55,9
